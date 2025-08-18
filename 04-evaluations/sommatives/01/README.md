@@ -14,7 +14,7 @@ Ceci est la description de l'activité évaluée #1
 
 #### Forme de l'évaluation
 
-* [ ] Individuel
+* [x] Individuel
 * [ ] Équipe
 
 
