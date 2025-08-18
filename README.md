@@ -7,22 +7,22 @@
 * Heures d’enseignement : 60
 * Session: 3
 
-SVP, consultez la [médiagraphie](05-mediagraphie/README).
-
 ## Description du cours
 
 L’élève réalise un projet ludique sur ordinateur qui intègre des images et des échantillons sonores. Il doit créer une expérience ludique à travers laquelle l’interacteur progresse selon ses actions.  Ce cours permet à l’élève de se familiariser avec les logiciels d’intégration multimédia et d’assimiler les notions de base de l’interactivité : présentation d’actions à accomplir, mesure et communication de la réussite (succès ou échec) et progression.
 
 ## Objectif intégrateur
+
 Réaliser une expérience ludique intégrant images et échantillons sonores dans laquelle l‘interacteur progresse en accomplissant des actions.
 
 ## Compétence ministérielle
+
 - 015F  Exploiter les langages de programmation utilisés en multimédia (éléments 1, 4, 5).
 - 015W  Effectuer le montage des médias à l’aide de logiciels d’intégration (éléments 1, 2, 3, 4).
 
 ## Contenus 
 
-!> Ils peuvent changer pendant le cours.
+!> Attention : ils vont changer pendant le cours.
 
 <!-- start-replace-subnav -->
 * [Déroulement](/01-deroulement/)
