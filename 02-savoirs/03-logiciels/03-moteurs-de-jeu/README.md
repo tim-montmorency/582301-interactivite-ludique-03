@@ -21,7 +21,7 @@
 Les pages suivantes présentent des fiches comparatives courtes des moteurs de jeu *publiques* le plus populaires et utilisés dans l'industrie. Une gran proportion de jeux vidéo sont crées avec des logiciels propriétaires et confidentiels qui sont utilisés seulement dans certaines compagnies (exemple : [Frostbite](https://www.ea.com/frostbite/engine)).
 
 <!-- start-replace-subnav depth=1 -->
-* [Godot](/02-savoirs/04-moteurs-de-jeu/godot/)
-* [Unity](/02-savoirs/04-moteurs-de-jeu/unity/)
-* [Unreal Engine](/02-savoirs/04-moteurs-de-jeu/unreal/)
+* [Godot](/02-savoirs/03-logiciels/03-moteurs-de-jeu/godot/)
+* [Unity](/02-savoirs/03-logiciels/03-moteurs-de-jeu/unity/)
+* [Unreal Engine](/02-savoirs/03-logiciels/03-moteurs-de-jeu/unreal/)
 <!-- end-replace-subnav -->
