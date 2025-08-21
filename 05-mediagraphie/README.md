@@ -40,7 +40,8 @@
 ## Ressources spécifiques à Godot
 
 - Documentation officielle (en français) — guide, tutoriels et référence API. <https://docs.godotengine.org/fr/4.x/index.html>
-- Godot demo projects — dépôt officiel avec exemples et petits projets à étudier et modifier. <https://github.com/godotengine/godot-demo-projects>
+- Godot demo projects v1 — dépôt officiel avec exemples et petits projets à étudier et modifier. <https://github.com/godotengine/godot-demo-projects>
+- Godot demo projects v2  —  site web des projets démos avec versions jouables dans le navigateur. <https://tim-montmorency.com/godot-doc/#/godot-demo-projects/>
 - [Bibliothèque d'Assets de Godot](https://godotengine.org/asset-library/asset)
 - GDQuest — tutoriels, cours et articles avancés orientés Godot (bon pour bonnes pratiques et patterns). <https://www.gdquest.com/>
 - [GDQuest - Chaine Youtube](https://www.youtube.com/@Gdquest/playlists)
