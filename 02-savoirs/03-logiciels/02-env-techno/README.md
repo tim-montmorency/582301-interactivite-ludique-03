@@ -6,7 +6,9 @@
 
 ## Gestion de projet et contrôle de version
 
+On va utiliser le système de contrôle de version **Git**. Ce système permet que on enregistre différentes versions d'un projet avec des changements monitorés et reversibles. C'est un peu comme avoir un *time machine* pour retorner et régler des erreurs dans notre projet.
 
+Ensemble avec Git, on utilse la plateforme **GitHub**. Cet service, propriété de Microsoft, a plusieurs outils pour la gestion de projets, contrôlés avec Git, en ligne.
 
 ## Création de documentation
 

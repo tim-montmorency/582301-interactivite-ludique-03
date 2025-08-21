@@ -1,6 +1,6 @@
 # Introduction à Godot
 
-!> On va toujours travailler avec la version de [Godot 4.4.1 (stable)](https://godotengine.org/download/archive/4.4.1-stable/). Vous pouvez toujours consultez toujours la [documentation officielle](https://docs.godotengine.org/fr/4.x/). 
+!> On va toujours travailler avec la version de [Godot 4.4.1 (stable)](https://godotengine.org/download/archive/4.4.1-stable/). Vous pouvez toujours consultez la [documentation officielle](https://docs.godotengine.org/fr/4.x/). 
 
 ## Concepts clés
 

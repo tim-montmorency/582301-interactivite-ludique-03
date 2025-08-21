@@ -8,6 +8,7 @@
 * [Environnement technologique](/02-savoirs/03-logiciels/02-env-techno/)
 * [Moteurs de jeu](/02-savoirs/03-logiciels/03-moteurs-de-jeu/)
 * [Introduction à Godot](/02-savoirs/05-intro-godot/)
+* [Classement des fichiers et des médias](/02-savoirs/05-classement-fichiers/)
 
 ## Activités en classe
 
