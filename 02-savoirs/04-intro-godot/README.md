@@ -1,9 +1,6 @@
 # Introduction à Godot
 
-!> On va toujours travailler avec la version de Godot 4.4.1 (stable).
-
-https://docs.godotengine.org/fr/4.x/getting_started/introduction/index.html
-
+!> On va toujours travailler avec la version de [Godot 4.4.1 (stable)](https://godotengine.org/download/archive/4.4.1-stable/). Vous pouvez toujours consultez toujours la [documentation officielle](https://docs.godotengine.org/fr/4.x/). 
 
 ## Concepts clés
 
@@ -67,11 +64,11 @@ func _process(delta):
 - Inspecteur / Inspector : montre les propriétés de le noeus ou asset selectionné.
 - Noeud / Node : les connexions logiques entre les noeuds avec des signaux.
 - Menu d'exécution : permet jouer le jeu pendant le développment.
-- Panneau de sortie et débogueur : montre les erreurs de code et les messages pendant l'exécution du jeu.
+- Panneau de sortie et débogueur / Output et Debugger: montre les erreurs de code et les messages pendant l'exécution du jeu.
 
 ![Sortie / débogueur](image-2.png)
 ![Menu d'execution](image-1.png)
 
 ### Outils importants
 
-- Projets > Paramètres du projet : configuration de touts les propriétés de l'ensemble du projet (dispositifs d'entrée, carte d'inputs, autoloads).
+- Projets > Paramètres du projet / Project settings : configuration de toutes les propriétés de l'ensemble du projet (dispositifs d'entrée, carte d'inputs, autoloads).
