@@ -5,8 +5,10 @@
 Convention a utiliser pour des travaux pratiques ou le projet intégrateur.
 
 ```bash
+# formule pour le nom du dossier racine: [NomDeFamille]-[Prénom]_[IdentifiantTravail]
+# voici un exemple: 
 
-- [NomDeFamille]-[Prénom]_[IdentifiantTravail]/ # nom du dépôt sur GitHub
+- llagostera_enric-tp1/ # nom du dépôt sur GitHub
     - docs/ # dossier avec l'exportation pour la web
     - projet/ # racine du projet Godot
         - project.godot # fichier avec infos du projet Godot, auto-crée
@@ -15,5 +17,4 @@ Convention a utiliser pour des travaux pratiques ou le projet intégrateur.
     - README.md # fichier Markdown avec la documentation et présentation du projet
     - ... 
     - ... # d'autres fichiers et dossiers pas indexés par Godot
-
 ```
