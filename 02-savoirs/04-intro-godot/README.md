@@ -4,7 +4,7 @@
 
 ## Concepts clés
 
-Adapté de la documentation officielle. Pour plus d'information, révisez-la [ici](https://docs.godotengine.org/fr/4.x/getting_started/introduction/key_concepts_overview.html).
+Adapté de *l'introduction de la documentation officielle*. Pour plus d'information, révisez-la [ici](https://docs.godotengine.org/fr/4.x/getting_started/introduction/index.html).
 
 ### Scènes
 
@@ -51,7 +51,6 @@ func _process(delta):
 ## Tour du logiciel
 
 ![Capture d'écran - Éditeur de projet Godot](image.png)
-
 
 ### Interface
 

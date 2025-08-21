@@ -6,4 +6,6 @@
 
 ## Savoirs essentiels/Contenus
 
+* [Introduction à Godot](/02-savoirs/05-intro-godot/)
+
 ## Activités en classe

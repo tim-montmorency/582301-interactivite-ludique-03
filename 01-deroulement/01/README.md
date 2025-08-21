@@ -16,5 +16,6 @@
 - Les moteurs de jeu et premiers pas avec Godot
 	- Téléchargement de la version stable 4.4.1
 	- Tour du logiciel
-- Présentation et discussion des consignes du TP1
-- Intégrations interactive d'un son et d'une image
+- [Présentation et discussion des consignes du TP1](/03-evaluations/sommatives/01/)
+- Intégration interactive d'un son et d'une image
+- Création de dépôt de projet sur GitHub
