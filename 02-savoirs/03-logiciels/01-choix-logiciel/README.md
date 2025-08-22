@@ -1,6 +1,6 @@
 # Choix du logiciel
 
-!> Dans ce cours, on va travailler avec **Godot**, un [moteur de jeu](../04-moteurs-de-jeu/) libre et gratuit.
+!> Dans ce cours, on va travailler avec **Godot**, un [moteur de jeu](/02-savoirs/03-logiciels/03-moteurs-de-jeu/) libre et gratuit.
 
 ## Court comparatif des technologies d'intégration multimédia
 
@@ -8,7 +8,7 @@
   - Avantages : très portable (navigateur), déploiement simple, large audience, bon pour prototypage et distribution web.
   - Limites : variations entre navigateurs, latence audio parfois supérieure, accès matériel restreint.
 
-- **[Moteurs de jeu (Unity, Unreal, Godot)](../04-moteurs-de-jeu/)**
+- **[Moteurs de jeu (Unity, Unreal, Godot)](/02-savoirs/03-logiciels/03-moteurs-de-jeu/)**
   - Avantages : puissance 2D/3D, accélération GPU, outils d'édition, export multi-plateforme, écosystèmes riches.
   - Limites : taille des builds, complexité, licences (Unity/Unreal) ou maturité (Godot) à considérer.
 
@@ -23,6 +23,7 @@
 - Environnements de creative coding (Processing, p5.js)
   - Avantages : prototypage rapide, pédagogie, bonne intégration web (p5.js).
   - Limites : pas toujours adaptés aux projets à haute performance ou exigences temps réel strictes.
+
 ## Enjeux de portabilité et performance
 
 - Portabilité
