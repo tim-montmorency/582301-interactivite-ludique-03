@@ -20,3 +20,7 @@
 - [Présentation et discussion des consignes du TP1](/03-evaluations/sommatives/01/)
 - Intégration interactive d'un son et d'une image
 - Création de dépôt de projet sur GitHub
+
+---
+
+Dépôt GitHub avec le projet exemple crée pendant le cours : <https://github.com/egl-edu/il-semaine1>
