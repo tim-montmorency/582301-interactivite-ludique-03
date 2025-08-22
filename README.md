@@ -2,6 +2,7 @@
 
 !> Automne 2025
 
+* [**Plan de cours**](https://cmontmorency365.sharepoint.com/:b:/s/Section_A25_582301MO-000003/EcppkS9LQU9PgQgRzCbwWxUBEYmfTbn2Kwe6GZd3H8sPOA?e=1BKXXY)
 * Pondération : 2-2-1
 * Unités : 1 2/3
 * Heures d’enseignement : 60
