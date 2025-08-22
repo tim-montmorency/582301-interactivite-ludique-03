@@ -12,6 +12,6 @@ Date : <!-- varexp:begin SEANCE_EVF_1 -->[Séance 2](/01-deroulement/02/)<!-- va
     1. Expliquer votre choix d'*interactions* avec le clavier
     2. Expliquer votre choix de *médias visuels*
     3. Expliquer votre choix de *médias sonores*
- 4. Envoyer le lien pour votre README sur votre dépot par le devoir Teams.
+ 4. Envoyer le lien pour le dépôt Github par le devoir Teams. (exemple: <https://github.com/egl-edu/llagostera-enric-tp1>)
 
 !> Pour les médias externes, c'est toujours important qu'on ait l'autorisation pour leur utilisation. Faites attention aux licences libres (comme CC-0 ou CC-BY) et aux droits d'auteur pour vos sources.
