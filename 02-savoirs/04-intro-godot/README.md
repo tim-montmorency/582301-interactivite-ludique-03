@@ -54,7 +54,7 @@ func _process(delta):
 
 ### Interface
 
-- Système de fichiers / File system : montre la structure des fishiers du projet.
+- Système de fichiers / File system : montre la structure des fichiers du projet.
 - Importer : configure l'importation de différents fichiers de médias (audio, images, modèles 3D).
 - Scène / Scene : montre l'arbre de scène courante.
 - 2D/3D : montre l'espace de la scène 2D ou 3D courante.

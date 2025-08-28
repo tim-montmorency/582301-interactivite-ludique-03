@@ -7,5 +7,14 @@
 ## Savoirs essentiels/Contenus
 
 * [Introduction à Godot](/02-savoirs/05-intro-godot/)
+* [Classement des fichiers et des médias](/02-savoirs/05-classement-fichiers/)
+* [Intégration de médias](/02-savoirs/06-integration-medias/)
 
 ## Activités en classe
+
+* Exercice : traitement de contrôle par clavier.
+* Tour de rétroaction sur les concepts pour le TP1.
+* Démo : utilisation de signaux.
+* Exercice : intégration d'audio.
+* Démo : export pour la web.
+* Travail sur le TP1.
