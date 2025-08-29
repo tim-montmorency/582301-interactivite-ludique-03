@@ -7,5 +7,8 @@
 * [Introduction à Godot](/02-savoirs/04-intro-godot/)
 * [Classement des fichiers et des médias](/02-savoirs/05-classement-fichiers/)
 * [Intégration de médias](/02-savoirs/06-integration-medias/)
+* [Introduction à GDScript](/02-savoirs/07-gdscript/)
+* [Contrôles et dispositifs d'entrée](/02-savoirs/08-controles/)
+* [Compilation de l’application (web export)](/02-savoirs/10-export-web/)
 <!-- end-replace-subnav -->
 
