@@ -1,8 +1,8 @@
 # Contrôles et dispositifs d'entrée
 
-Le moteur de jeu nous permettent de détecter et réagir aux changements des dispositifs d'entrée variés.
+Les moteurs de jeu nous permettent de détecter et réagir aux changements des dispositifs d'entrée variés.
 
-On a explorè comment utiliser un objet du type `InputEvent` pour detecter un évéenement de la souris : 
+On a exploré comment utiliser un objet du type `InputEvent` pour detecter un évéenement de la souris : 
 
 ```gdscript
 func _input(event: InputEvent) -> void:
@@ -19,7 +19,7 @@ func _process(delta):
 		# Faire une action.
 ```
 
-Les acitions groupe différents mappings d' entréee sur un même nom (exemple: `ui_right`). Elle nous permet de déclencher des comportements avec le même code pour travailler sur différents appareils avec différentes entrées (par exemple, clavier sur PC, Joypad sur console).
+Les actions groupent différents mappings d' entréee sur un même nom (exemple: `ui_right`). Elle nous permettent de déclencher des comportements avec le même code pour travailler sur différents appareils avec différentes entrées (par exemple, clavier sur PC, Joypad sur console).
 
 ![Éditeur de InputMap et actions](image.png)
 
@@ -27,7 +27,7 @@ Pour plus d' info sur les **InputEvents**, [regardez les docs](https://docs.godo
 
 ## Effets combinatoires entre intéractions
 
-Un moteur de jeu permet de combiner éléments visuels, sonores et logiques pour produire comportements complexes à partir d’interactions simples (ex. touches clavier). Ce document donne des pistes pratiques et exemples courts pour penser ces combinaisons.
+Un moteur de jeu permet aussi de combiner éléments visuels, sonores et logiques pour produire comportements complexes à partir d’interactions simples (ex. touches clavier). Ce document donne des pistes pratiques et exemples courts pour penser ces combinaisons.
 
 Principes généraux
 - Composition : mixer petits modules (sprite, audio player, animation, physics) pour créer un tout plus riche.

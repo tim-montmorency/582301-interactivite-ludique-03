@@ -105,7 +105,6 @@ for key in d.keys():
 - `preload("res://...")` charge à la compilation (utile pour performances).
 
 ## Bonnes pratiques pédagogiques
-- Utiliser GDScript pour tous les TP initiaux (simplicité + intégration).
 - Commenter brièvement les scripts, garder les fonctions courtes.
 - Préférer les signals pour la communication entre nœuds plutôt que liaisons directes fortes.
 - Annoter les types quand utile pour l'autocomplétion et la documentation.
