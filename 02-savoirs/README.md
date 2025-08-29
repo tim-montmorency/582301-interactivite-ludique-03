@@ -10,5 +10,6 @@
 * [Introduction à GDScript](/02-savoirs/07-gdscript/)
 * [Contrôles et dispositifs d'entrée](/02-savoirs/08-controles/)
 * [Compilation de l’application (web export)](/02-savoirs/10-export-web/)
+* [Projet simple](/02-savoirs/20-projet-simple/)
 <!-- end-replace-subnav -->
 
