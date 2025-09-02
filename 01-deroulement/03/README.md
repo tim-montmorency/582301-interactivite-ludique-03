@@ -6,7 +6,10 @@
 
 ## Savoirs essentiels/Contenus
 
+* [Compilation de l’application (web export)](/02-savoirs/10-export-web/)
+
 ## Activités en classe
 
 1. Débougage et raffinement de l'export web pour le test
 2. Session de test et contrôle de qualité
+3. Temps de travail sur le TP1
