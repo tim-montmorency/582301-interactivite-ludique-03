@@ -64,6 +64,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
     * [Introduction à GDScript](/02-savoirs/07-gdscript/)
     * [Contrôles et dispositifs d'entrée](/02-savoirs/08-controles/)
     * [Compilation de l’application (web export)](/02-savoirs/10-export-web/)
+    * [Contrôle de la qualité](/02-savoirs/11-controle-qualite/)
     * [Projet simple](/02-savoirs/20-projet-simple/)
 * [Évaluations](/03-evaluations/)
     * [Évaluations formatives](/03-evaluations/formatives/)

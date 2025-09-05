@@ -7,6 +7,7 @@
 ## Savoirs essentiels/Contenus
 
 * [Compilation de l’application (web export)](/02-savoirs/10-export-web/)
+* [Contrôle de la qualité](/02-savoirs/11-controle-qualite/) et utilisation d'issues sur GitHub.
 
 ## Activités en classe
 
