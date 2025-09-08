@@ -77,6 +77,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
         * [Travail pratique 3 (TP3) : <!-- varexp:begin BLOC3 -->Niveaux, progression, menu<!-- varexp:end -->](/03-evaluations/sommatives/03/)
         * [<!-- varexp:begin BLOC4 -->Projet intégrateur<!-- varexp:end -->](/03-evaluations/sommatives/04/)
 * [Ressources rapides](/04-ressources-rapides/)
+    * [Capsules vidéo](/04-ressources-rapides/01-capsules-video/)
 * [Médiagraphie](/05-mediagraphie/)
 * [PIEA](/06-piea/)
 <!-- end-replace-subnav -->
