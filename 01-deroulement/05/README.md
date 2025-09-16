@@ -7,11 +7,13 @@
 
 ## Savoirs essentiels/Contenus
 
-* [Détection de l'état de personnage](/02-savoirs/30-detection-etat/) (ex. collision, au sol, dans les airs)
-* Création d’un environnement virtuel navigable
-* Déplacement dans l’environnement virtuel
+* [Détection de l'état de personnage](/02-savoirs/50-detection-etat/)
+* [Déplacement dans un environnement virtuel](/02-savoirs/51-deplacement-personnage/)
+* [Création d’un environnement virtuel navigable](/02-savoirs/52-environnement-virtuel/)
 
 ## Activités en classe
 
-- Démos sur la création d'un personnage interactif
+- Démo : Création d'un personnage interactif
+- Démo : Création d'un environnement virtuel
+- Démo : Déplacement de personnage
 - Discussion et idéation pour le TP2
