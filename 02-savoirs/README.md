@@ -12,5 +12,6 @@
 * [Compilation de l’application (web export)](/02-savoirs/10-export-web/)
 * [Contrôle de la qualité](/02-savoirs/11-controle-qualite/)
 * [Projet simple](/02-savoirs/20-projet-simple/)
+* [Détection de l'état de personnage](/02-savoirs/30-detection-etat/)
 <!-- end-replace-subnav -->
 

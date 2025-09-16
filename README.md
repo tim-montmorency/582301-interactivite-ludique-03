@@ -66,6 +66,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
     * [Compilation de l’application (web export)](/02-savoirs/10-export-web/)
     * [Contrôle de la qualité](/02-savoirs/11-controle-qualite/)
     * [Projet simple](/02-savoirs/20-projet-simple/)
+    * [Détection de l'état de personnage](/02-savoirs/30-detection-etat/)
 * [Évaluations](/03-evaluations/)
     * [Évaluations formatives](/03-evaluations/formatives/)
         * [TP1-EVF-1 : Validation de concept pour le TP1](/03-evaluations/formatives/01-validation-tp1/)
