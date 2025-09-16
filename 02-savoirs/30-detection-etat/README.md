@@ -2,7 +2,7 @@
 
 Pour contrôler un objet dynamique qui a des comportements bien distinctes, c'est important d'identifier quel est la situation courante de cet objet. 
 
-Par exemple, si j'ai un personnage qui peut sauter ou se promener ou rester en repos, comment je peux savoir quel est sont comportement courant ? Quels questions je peut poser pour les différencier ?
+Par exemple, si j'ai un personnage qui peut sauter ou se promener ou rester en repos, comment je peux savoir quel est son comportement courant ? Quels questions je peut poser pour les différencier ?
 
 Je vais commencer par lister mes **états possibles** : 
 
@@ -42,7 +42,7 @@ Après, je peut lister les **conditions necéssaires** pour trouver quel est le 
         - Le personnage est au sol (collision en bas du personnage).
         - La vitesse horizontal est égale à zéro.
 
-J'ai besoin de **savoir à tout moment** à quel état mon personnage est, donc je veux vérifier dans une fonction qui est exécutée à chaque frame, comme `_process()` ou `_physics_process()`. Je vais aussi utiliser une variable du type `enum` pour garder quel est l'état courant
+J'ai besoin de **savoir à tout moment** quel est l'état actif de mon personnage, donc je veux vérifier dans une fonction que est exécutée à chaque frame, comme `_process()` ou `_physics_process()`. Je vais aussi utiliser une variable du type `enum` pour garder quel est l'état courant
 
 ```gdscript
 # en haut de mon script
@@ -113,8 +113,11 @@ func _process(delta):
         if velocity.x != 0:
             print("MARCHE")
             etat_courant = Etat.MARCHE
+            # Effet : animation
             $AnimatedSprite2D.play("marche")
             if Input.is_action_pressed("saut"):
+                # Effet : changement de vitesse verticale
+                # Le prochain frame, l'état va être SAUT
                 velocity.y = -400
 
     # Continuation de la logique...

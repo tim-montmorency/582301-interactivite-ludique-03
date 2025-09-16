@@ -8,8 +8,8 @@
 ## Savoirs essentiels/Contenus
 
 * [Détection de l'état de personnage](/02-savoirs/30-detection-etat/) (ex. collision, au sol, dans les airs)
-- Création d’un environnement virtuel navigable
-- Déplacement dans l’environnement virtuel
+* Création d’un environnement virtuel navigable
+* Déplacement dans l’environnement virtuel
 
 ## Activités en classe
 
