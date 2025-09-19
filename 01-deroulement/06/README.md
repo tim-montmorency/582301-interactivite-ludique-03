@@ -2,8 +2,8 @@
 
 ## À préparer avant la classe
 
-* [ ] Quelques examples détournés
-* [ ] Description de concept pour le TP2 dans le README du nouveau dépôt GitHub.
+* Quelques examples de projet-démo détournés
+* [TP2-EVF-3 : Validation de concept pour le TP2](/03-evaluations/formatives/21-validation-tp2/)
 
 ## Savoirs essentiels/Contenus
 
