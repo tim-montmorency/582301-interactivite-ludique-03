@@ -2,6 +2,9 @@
 
 ## À préparer avant la classe
 
+* [ ] Quelques examples détournés
+* [ ] Description de concept pour le TP2 dans le README du nouveau dépôt GitHub.
+
 ## Savoirs essentiels/Contenus
 
 ## Activités en classe

@@ -69,6 +69,8 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
     * [Détection de l'état de personnage](/02-savoirs/50-detection-etat/)
     * [Déplacement dans un environnement virtuel](/02-savoirs/51-deplacement-personnage/)
     * [Création d’un environnement virtuel navigable](/02-savoirs/52-environnement-virtuel/)
+    * [Notions d’interaction pt.2 : interacteur et affordance ](/02-savoirs/53-interactivite-suite/)
+        * [Gibson — L'affordance appliquée au jeu vidéo](/02-savoirs/53-interactivite-suite/gibson/)
 * [Évaluations](/03-evaluations/)
     * [Évaluations formatives](/03-evaluations/formatives/)
         * [TP1-EVF-1 : Validation de concept pour le TP1](/03-evaluations/formatives/01-validation-tp1/)

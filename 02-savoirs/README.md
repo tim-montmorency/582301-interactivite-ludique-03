@@ -15,5 +15,6 @@
 * [Détection de l'état de personnage](/02-savoirs/50-detection-etat/)
 * [Déplacement dans un environnement virtuel](/02-savoirs/51-deplacement-personnage/)
 * [Création d’un environnement virtuel navigable](/02-savoirs/52-environnement-virtuel/)
+* [Notions d’interaction pt.2 : interacteur et affordance ](/02-savoirs/53-interactivite-suite/)
 <!-- end-replace-subnav -->
 
