@@ -8,6 +8,8 @@ Pour que la caméra suive un objet, on peu placer le noeud `Camera2D` comme fils
 
 <video controls src="20250922-1911-40.9178403.mp4" title="Title"></video>
 
+Essayez de modifier le comportement de la caméra (limites, zoom) dans [l'exemple de jeu de plateforme](https://egl-edu.github.io/exemple--plateforme/) (téléchargez et modifier les propriétés du noeud).
+
 ## Ressources supplementaires
 
 * [Documentation officielle sur les caméras 2D](https://docs.godotengine.org/fr/4.x/classes/class_camera2d.html).
