@@ -16,5 +16,7 @@
 * [Déplacement dans un environnement virtuel](/02-savoirs/51-deplacement-personnage/)
 * [Création d’un environnement virtuel navigable](/02-savoirs/52-environnement-virtuel/)
 * [Notions d’interaction pt.2 : interacteur et affordance ](/02-savoirs/53-interactivite-suite/)
+* [Interface virtuelle (menu et pause)](/02-savoirs/61-menu-et-pause/)
+* [Caméra virtuelle 2D](/02-savoirs/62-camera-virtuelle-2D/)
 <!-- end-replace-subnav -->
 

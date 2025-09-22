@@ -7,5 +7,11 @@
 
 ## Savoirs essentiels/Contenus
 
+* [Interface virtuelle (menu et pause)](/02-savoirs/61-menu-et-pause/)
+* [Caméra virtuelle 2D](/02-savoirs/62-camera-virtuelle-2D/)
+
 ## Activités en classe
 
+- Démos et questions sur la caméra et interface d'utilisateur
+- Validation de concepts - TP2
+- Temps de travil - TP2
