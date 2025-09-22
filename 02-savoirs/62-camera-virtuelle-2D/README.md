@@ -6,7 +6,7 @@ Dans Godot et en 2D, on utilise le nœud `Camera2D` pour représenter notre cam�
 
 Pour que la caméra suive un objet, on peu placer le noeud `Camera2D` comme fils de cet objet. Remarque l'arborescence de scène dans l'exemple suivant.
 
-<video controls src="20250922-1911-40.9178403.mp4" title="Title"></video>
+![Exemple arborescence de caméra.](<Recording 2025-09-22 152355.gif>)
 
 Essayez de modifier le comportement de la caméra (limites, zoom) dans [l'exemple de jeu de plateforme](https://egl-edu.github.io/exemple--plateforme/) (téléchargez et modifier les propriétés du noeud).
 
