@@ -4,12 +4,12 @@ Une caméra dans un moteur de jeu est une fenêtre pour montrer au joueur l'éta
 
 Dans Godot et en 2D, on utilise le nœud `Camera2D` pour représenter notre caméra. Elle a plusieurs comportements de base déjà fournis, comme des limites horizontales et verticales, du déplacement et de la rotation adoucis, contrôles par glissage, et un système de zoom. 
 
-Pour que la caméra suive un objet, on peu placer le noeud `Camera2D` comme fils de cet objet. Remarque l'arborescence de scène dans l'exemple suivant.
+Pour que la caméra suive un objet, on peut placer le nœud `Camera2D` comme fils de cet objet. Remarque l'arborescence de scène dans l'exemple suivant.
 
 ![Exemple arborescence de caméra.](<Recording 2025-09-22 152355.gif>)
 
-Essayez de modifier le comportement de la caméra (limites, zoom) dans [l'exemple de jeu de plateforme](https://egl-edu.github.io/exemple--plateforme/) (téléchargez et modifier les propriétés du noeud).
+Essayez de modifier le comportement de la caméra (limites, zoom) dans [l'exemple de jeu de plateforme](https://egl-edu.github.io/exemple--plateforme/) (téléchargez et modifiez les propriétés du nœud).
 
-## Ressources supplementaires
+## Ressources supplémentaires
 
 * [Documentation officielle sur les caméras 2D](https://docs.godotengine.org/fr/4.x/classes/class_camera2d.html).
