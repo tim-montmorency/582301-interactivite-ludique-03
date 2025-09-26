@@ -24,3 +24,14 @@ Prototype de niveau de jeu avec un personnage dynamique et un environnement phys
 - Intégration de médias sonores dans l’environnement virtuel
 - Fonctionnement d’une interface virtuelle (menu)
 - Création d'un objet interactif qui change le comportement du niveau ou du personnage
+
+### Notes de cours connectées
+
+* [Détection de l'état de personnage](/02-savoirs/50-detection-etat/)
+* [Déplacement dans un environnement virtuel](/02-savoirs/51-deplacement-personnage/)
+* [Création d’un environnement virtuel navigable](/02-savoirs/52-environnement-virtuel/)
+* [Notions d’interaction pt.2 : interacteur et affordance ](/02-savoirs/53-interactivite-suite/)
+* [Interface virtuelle (menu et pause)](/02-savoirs/61-menu-et-pause/)
+* [Caméra virtuelle 2D](/02-savoirs/62-camera-virtuelle-2D/)
+* [Création d'objet interactif](/02-savoirs/63-objet-interactif/)
+* [Médias sonores dans l'environnement virtuel](/02-savoirs/64-localisation-sonore/)

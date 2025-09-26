@@ -18,5 +18,7 @@
 * [Notions d’interaction pt.2 : interacteur et affordance ](/02-savoirs/53-interactivite-suite/)
 * [Interface virtuelle (menu et pause)](/02-savoirs/61-menu-et-pause/)
 * [Caméra virtuelle 2D](/02-savoirs/62-camera-virtuelle-2D/)
+* [Création d'objet interactif](/02-savoirs/63-objet-interactif/)
+* [Médias sonores dans l'environnement virtuel](/02-savoirs/64-localisation-sonore/)
 <!-- end-replace-subnav -->
 
