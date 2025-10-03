@@ -2,6 +2,8 @@
 
 ## À préparer avant la classe
 
+- Avoir terminé le TP2
+
 ## Savoirs essentiels/Contenus
 
 ## Activités en classe
