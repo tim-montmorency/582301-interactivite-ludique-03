@@ -20,5 +20,6 @@
 * [Caméra virtuelle 2D](/02-savoirs/62-camera-virtuelle-2D/)
 * [Création d'objet interactif](/02-savoirs/63-objet-interactif/)
 * [Médias sonores dans l'environnement virtuel](/02-savoirs/64-localisation-sonore/)
+* [Transitions de scènes](/02-savoirs/80-transition-scenes/)
 <!-- end-replace-subnav -->
 

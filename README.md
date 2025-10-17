@@ -75,6 +75,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
     * [Caméra virtuelle 2D](/02-savoirs/62-camera-virtuelle-2D/)
     * [Création d'objet interactif](/02-savoirs/63-objet-interactif/)
     * [Médias sonores dans l'environnement virtuel](/02-savoirs/64-localisation-sonore/)
+    * [Transitions de scènes](/02-savoirs/80-transition-scenes/)
 * [Évaluations](/03-evaluations/)
     * [Évaluations formatives](/03-evaluations/formatives/)
         * [TP1-EVF-1 : Validation de concept pour le TP1](/03-evaluations/formatives/01-validation-tp1/)

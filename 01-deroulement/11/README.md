@@ -2,6 +2,8 @@
 
 ## À préparer avant la classe
 
+- Avoir terminé le [[Travail pratique 3 (TP3)](/03-evaluations/sommatives/03/)
+
 ## Savoirs essentiels/Contenus
 
 ## Activités en classe
