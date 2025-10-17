@@ -18,6 +18,6 @@
 - Lancement du [Travail pratique 3 (TP3) : Niveaux, progression, menu](/03-evaluations/sommatives/03/)
   - Création du nouveau dépôt
   - Préparation du concept
-- Démo : transition entre scènes et les Autoloads
+- Démo : transition entre scènes et les Autoloads -- [Projet exemple](https://github.com/egl-edu/exemple--multi-niveaux) : https://github.com/egl-edu/exemple--multi-niveaux
 - Démo : organisation logique avec la méthode *call down, signal up*
 - Démo : setup d'interface HUD (*Heads-Up Display*)
