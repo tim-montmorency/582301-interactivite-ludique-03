@@ -5,4 +5,5 @@
 - [Guide de syntax et écriture en Markdown](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), par GitHub.
 <!-- start-replace-subnav -->
 * [Capsules vidéo](/04-ressources-rapides/01-capsules-video/)
+* [Projets-exemple](/04-ressources-rapides/02-projets-exemple/)
 <!-- end-replace-subnav -->

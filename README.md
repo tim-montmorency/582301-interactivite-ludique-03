@@ -81,6 +81,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
         * [TP1-EVF-1 : Validation de concept pour le TP1](/03-evaluations/formatives/01-validation-tp1/)
         * [TP1-EVF-2 : Session de test du TP1](/03-evaluations/formatives/02-session-test-tp1/)
         * [TP2-EVF-3 : Validation de concept pour le TP2](/03-evaluations/formatives/21-validation-tp2/)
+        * [TP3-EVF-5 : Validation de concept pour le TP3](/03-evaluations/formatives/91-elaboration-tp3/)
     * [Évaluations sommatives](/03-evaluations/sommatives/)
         * [Travail pratique 1 (TP1) : <!-- varexp:begin BLOC1 -->Scène interactive<!-- varexp:end -->](/03-evaluations/sommatives/01/)
             * [Grille d'évaluation - TP1](/03-evaluations/sommatives/01/grille-evaluation/)
@@ -90,6 +91,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
         * [<!-- varexp:begin BLOC4 -->Projet intégrateur<!-- varexp:end -->](/03-evaluations/sommatives/04/)
 * [Ressources rapides](/04-ressources-rapides/)
     * [Capsules vidéo](/04-ressources-rapides/01-capsules-video/)
+    * [Projets-exemple](/04-ressources-rapides/02-projets-exemple/)
 * [Médiagraphie](/05-mediagraphie/)
 * [PIEA](/06-piea/)
 <!-- end-replace-subnav -->
