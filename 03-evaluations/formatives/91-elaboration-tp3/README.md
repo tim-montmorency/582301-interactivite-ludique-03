@@ -24,13 +24,3 @@ L'objectif de cette activité formative est de préparer une première version d
        3. Quelles informations le joueur a besoin pour attendre ses objectifs ?
  
 3. Envoyer le lien pour le dépôt GitHub par ce devoir Teams. ( exemple: https://github.com/egl-edu/llagostera-enric-tp3)
-
-
-1. Créer un nouveau dépôt GitHub vide, avec un fichier README.md.
-   * Faire attention avec la _nomenclature du dépôt_ : <prenom-nom-tp1> ( exemple: `llagostera-enric-tp2` ).
-   * Le dépôt doit être *publique*.
-2. Définir la thématique et concept du niveau avec personnage et environnement que vous allez développer.
-3. Préparer une description du concept dans le fichier README.md
-   * Expliquer votre choix de *personnage, environnement et d'objets interactifs*.
-   * Expliquer votre choix de *médias visuels et sonores*
-4. Envoyer le lien pour le dépôt Github par le devoir Teams. ( exemple: https://github.com/egl-edu/llagostera-enric-tp2)
