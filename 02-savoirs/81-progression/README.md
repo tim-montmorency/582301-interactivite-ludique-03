@@ -1,6 +1,14 @@
 # Progression aux jeux vidéo
 
-À venir.
+## Analyse
+
+Jouez les 2 niveaux de l’exemple multi-niveaux ([lien jouable](https://egl-edu.github.io/exemple--multi-niveaux/), [repo](https://github.com/egl-edu/exemple--multi-niveaux)). 
+
+Voici les cartes de ces deux niveaux. Quelles sont les principales différences entre les niveaux ? Quelles sont la progression et les relations entre eux ?
+
+![Niveau 1](image-1.png)
+
+![Niveau 2](image.png)
 
 <!--
 

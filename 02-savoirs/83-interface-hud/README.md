@@ -1,8 +1,8 @@
 # Interface HUD
 
-HUD est une abbreviation qui remet à les interfaces présentes dans des avions (*heads-up display*). L'idée base c'est que ces éléments d'interface sont visibles à la majorité du temps du gameplay, parce qu'ils communiquent des informations relevantes pour son déroulement. Les éléments de HUD sont souvant placés aux coins de l'écran et usilisent différentes conventions et téchniques d'interface pour présenter des informations.
+HUD est l’abréviation d’interface originaire des avions (*heads-up display*). L’idée de base c’est que ces éléments d’interface sont visibles à la majorité du temps du gameplay, parce qu’ils communiquent des informations relevantes pour son déroulement. Les éléments de HUD sont souvent placés aux coins de l’écran et utilisent différentes conventions et techniques d’interface pour présenter des informations.
 
-Quelques exemples d'information affichée sur des HUD. 
+Quelques exemples d’information affichée sur des HUD. 
 
 - Points ou score
 - Niveau actuel
@@ -16,9 +16,10 @@ Les éléments que sont montrés changent de jeu à jeu selon leur genre ou dire
 
 ## Assemblage avec Godot
 
-Pour afficher une interface rélative à l'écran (indépendentment de la position de la **Camera2D**), on utilise un noeud **CanvasLayer** avec des noeuds d'interface (herités de **Control**) dedans. On peut utiliser des containeurs, comme les **HBoxContainer**, pour les organiser horizontalment.
+Pour afficher une interface relative à l’écran (indépendamment de la position de la **Camera2D**), on utilise un nœud **CanvasLayer** avec des nœuds d’interface (hérités de **Control**) dedans. On peut utiliser des conteneurs, comme les **HBoxContainer**, pour les organiser horizontalement.
 
-La connexion entre les noeuds d'interface et les variables du jeu (niveau courant, nombre de monnaies, nombre de vies, etc) peut être réaliser avec des **signaux**. Voici un exemple pour le nombre de monnaies.
+
+La connexion entre les nœuds d’interface et les variables du jeu (niveau courant, nombre de monnaies, nombre de vies, etc.) peut être réalisée avec des **signaux**. Voici un exemple pour le nombre de monnaies.
 
 ```gdscript
 # Dans main.gd, le script central du jeu
