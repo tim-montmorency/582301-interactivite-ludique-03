@@ -2,7 +2,9 @@
 
 Quand on commence un jeu Godot, il va charger quelques scènes et les ajouter à un nœud racine du type **Viewport**. Tous les composants de notre niveau proviennent de différentes scènes et de nœuds. Par conséquent, pour charger un nouveau niveau, il suffit de modifier les scènes actives dans notre arborescence.
 
-La façon plus directe de changer la scène utilise la méthode `change_scene_to_file()`. Cette méthode change l'arborescence par complet et le remplace avec les contenus de la nouvelle scène. On peut changer une scène à un path de fichier de scène ou on peut utiliser une référence à un objet du type **PackedScene**, avec la méthode `change_scene_to_packed()`. 
+Voir aussi : [Progression aux jeux vidéo](/02-savoirs/81-progression/) — pour des patterns complémentaires sur le gating, la persistance d'état et la validation (tests).
+
+La façon plus directe de changer la scène utilise la méthode `change_scene_to_file()`. Cette méthode change l'arborescence au complet et la remplace avec le contenu de la nouvelle scène. On peut charger une scène via le chemin de la scène ou on peut utiliser une référence à un objet de type **PackedScene**, avec la méthode `change_scene_to_packed()`. 
 
 ```gdscript
 # Mon nouveau niveau est dans le fichier "res://scenes/niveau_02.tscn"
@@ -51,3 +53,5 @@ func changer_scene(nouvelle_scene:PackedScene):
 ```
 
 Avec notre autoload, on peut l'utiliser aussi pour détruire et instancier différentes parties de notre jeu au besoin quand on charge un nouveau niveau. Voici un exemple de [custom scene switcher dans la documentation officielle](https://docs.godotengine.org/en/stable/tutorials/scripting/singletons_autoload.html#custom-scene-switcher). Par exemple, si je veux que l'interface HUD et la musique continuent, mais je veux afficher un nouvel environnement, je peux configurer mon autoload pour détruire seulement l'environnement précédent et l'objet du joueur et instancier un nouveau niveau et une nouvelle copie de mon personnage.
+
+Complément : voir [Progression aux jeux vidéo](/02-savoirs/81-progression/) pour la façon de conserver la progression (GameState ou Main) et les tests à réaliser après implémentation.

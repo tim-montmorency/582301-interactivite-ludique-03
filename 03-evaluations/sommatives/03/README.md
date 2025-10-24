@@ -14,10 +14,10 @@ Création d'un jeu avec plusieurs niveaux qui détourne un jeu-base dans une nou
 
 ### Savoirs essentiels, principaux critères d'évaluation
 
-- Notions d’interaction : interacteur, affordance, engagement et agentivité
-- États, niveaux et progression
-- Programmation d’un système de clé et de porte
-- Progression en fonction de la réussite d’une action
-- Transitions de scènes
-- Indication visuelle et sonore des réussites et échecs d’interaction
-- Intégration d’une interface graphique HUD («Head-Up Display»)
+* [Notions d’interaction : interacteur, affordance, engagement et agentivité](/02-savoirs/79-interactivite-3/)
+* [États, niveaux et progression](/02-savoirs/81-progression/)
+* [Programmation d’un système de clé et de porte](/02-savoirs/82-cle-et-porte/)
+* Progression en fonction de la réussite d’une action
+* [Transitions de scènes](/02-savoirs/80-transition-scenes/)
+* [Indication visuelle et sonore des réussites et échecs d’interaction](/02-savoirs/84-indications-echecs-interaction/)
+* [Intégration d’une interface graphique HUD («Head-Up Display»)](/02-savoirs/83-interface-hud/)
