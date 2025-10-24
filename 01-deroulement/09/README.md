@@ -18,3 +18,7 @@
 - Discussion sur les mécanismes de clé et porte (*lock-and-key* et *gating*)
 - Temps de travail sur le concept et l'implémentation du TP3
 
+[Diagramme de l'architecture](https://excalidraw.com/#json=RNZpUkuI0g-CaMcOdklz8,4Cgbox3LOUsBHj2ejKfwfw) de l'exemple de clé et porte montré en classe :
+
+![Diagramme](image.png)
+

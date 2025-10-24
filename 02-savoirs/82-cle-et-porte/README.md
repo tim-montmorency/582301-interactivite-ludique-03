@@ -107,6 +107,12 @@ func _on_key_collected(key_name: String) -> void:
     # Option : animer / pulser
 ```
 
+### Exemple crée en classe (semaine 9)
+
+Voici un diagramme de l'architecture.
+
+![alt text](image-2.png)
+
 ### Bonnes pratiques et variations
 
 - Utiliser des groupes (`player`) pour tester le contact au lieu d'un check de classe stricte.
