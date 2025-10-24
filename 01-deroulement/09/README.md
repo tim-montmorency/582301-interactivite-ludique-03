@@ -6,9 +6,9 @@
 
 ## Savoirs essentiels/Contenus
 
-- États, niveaux et progression
-- Programmation d’un système de clé et de porte
-- Intégration d’une interface graphique HUD («Head-Up Display»)
+* [Progression aux jeux vidéo](/02-savoirs/81-progression/)
+* [Systèmes de clé et porte](/02-savoirs/82-cle-et-porte/)
+* [Interface HUD](/02-savoirs/83-interface-hud/)
 
 ## Activités en classe
 
