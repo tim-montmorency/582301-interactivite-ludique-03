@@ -6,9 +6,11 @@
 
 ## Savoirs essentiels/Contenus
 
+* [Notions d’interaction : interacteur, affordance, engagement et agentivité](/02-savoirs/79-interactivite-3/)
+* [Transitions de scènes](/02-savoirs/80-transition-scenes/)
 * [Progression aux jeux vidéo](/02-savoirs/81-progression/)
-* [Systèmes de clé et porte](/02-savoirs/82-cle-et-porte/)
-* [Interface HUD](/02-savoirs/83-interface-hud/)
+* [Programmation d’un système de clé et de porte](/02-savoirs/82-cle-et-porte/)
+* [Intégration d’une interface graphique HUD («Head-Up Display»)](/02-savoirs/83-interface-hud/)
 
 ## Activités en classe
 
