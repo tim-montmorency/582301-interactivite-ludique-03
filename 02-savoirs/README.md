@@ -21,5 +21,8 @@
 * [Création d'objet interactif](/02-savoirs/63-objet-interactif/)
 * [Médias sonores dans l'environnement virtuel](/02-savoirs/64-localisation-sonore/)
 * [Transitions de scènes](/02-savoirs/80-transition-scenes/)
+* [Progression aux jeux vidéo](/02-savoirs/81-progression/)
+* [Systèmes de clé et porte](/02-savoirs/82-cle-et-porte/)
+* [Interface HUD](/02-savoirs/83-interface-hud/)
 <!-- end-replace-subnav -->
 
