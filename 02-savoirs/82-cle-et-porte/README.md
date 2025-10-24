@@ -2,12 +2,12 @@
 
 Ces systèmes connectent des obstacles avec des items ou conditions qui permettent le joueur de les traverser. On peut listes les clés et les "portes" (qui peuvent être d'autres types d'objets ou situations) pour analyser la séquence de défis et de obstacles qui vont conditionner le parcours des joueur.
 
-Carte avec la distribution spatiale des clés et portes.
+Carte avec la distribution spatiale des clés et portes (crée par [Mark Brown](https://www.patreon.com/posts/how-my-boss-key-13801754)).
 ![Carte](image.png)
 
-Diagramme logique de dépendences entre clés et portes.
+Diagramme logique de dépendences entre clés et portes (crée par [Mark Brown](https://www.patreon.com/posts/how-my-boss-key-13801754)).
 
-![alt text](image-1.png)
+![Diagramme](image-1.png)
 
 <!--
 Aussi connus comme *lock-and-key*, ce type de système est utilisé pour créer des objectifs variés dans les jeux. 
