@@ -6,5 +6,6 @@
 * [Travail pratique 2 (TP2) : <!-- varexp:begin BLOC2 -->Personnage et environnement<!-- varexp:end -->](/03-evaluations/sommatives/02/)
     * [Grille d'évaluation — TP2 : Personnage et environnement](/03-evaluations/sommatives/02/grille/)
 * [Travail pratique 3 (TP3) : <!-- varexp:begin BLOC3 -->Niveaux, progression, menu<!-- varexp:end -->](/03-evaluations/sommatives/03/)
+    * [Grille d'évaluation — TP3 : Niveaux, progression, menu](/03-evaluations/sommatives/03/grille/)
 * [<!-- varexp:begin BLOC4 -->Projet intégrateur<!-- varexp:end -->](/03-evaluations/sommatives/04/)
 <!-- end-replace-subnav -->
