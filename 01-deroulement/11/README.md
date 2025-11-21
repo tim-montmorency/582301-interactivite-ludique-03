@@ -1,4 +1,4 @@
-# S11 : <!-- varexp:begin S11 -->2025-11-21<!-- varexp:end -->
+# S11 : 2025-11-21
 
 ## À préparer avant la classe
 
