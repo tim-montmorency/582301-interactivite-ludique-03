@@ -9,4 +9,6 @@
 - Présentations du TP3
 - Lancement du [Projet intégrateur](/03-evaluations/sommatives/04/)
   - Formation d'équipes
-  - Activité d'idéation et création d'un GDD (document de game design)
+  - Activité d'idéation
+  - Discussion de concepts
+  - [Déploiement web sur Itch.io](/02-savoirs/110-deploiement-web-itch/)

@@ -10,6 +10,7 @@
 * [Introduction à GDScript](/02-savoirs/07-gdscript/)
 * [Contrôles et dispositifs d'entrée](/02-savoirs/08-controles/)
 * [Compilation de l’application (web export)](/02-savoirs/10-export-web/)
+* [Déploiement web sur Itch.io](/02-savoirs/110-deploiement-web-itch/)
 * [Contrôle de la qualité](/02-savoirs/11-controle-qualite/)
 * [Projet simple](/02-savoirs/20-projet-simple/)
 * [Détection de l'état de personnage](/02-savoirs/50-detection-etat/)
