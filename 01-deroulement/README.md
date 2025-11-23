@@ -11,7 +11,7 @@
 * [S8 : <!-- varexp:begin S8 -->2025-10-17<!-- varexp:end -->](/01-deroulement/08/)
 * [S9 : <!-- varexp:begin S9 -->2025-10-24<!-- varexp:end -->](/01-deroulement/09/)
 * [S10 : <!-- varexp:begin S10 -->2025-10-31<!-- varexp:end -->](/01-deroulement/10/)
-* [S11 : <!-- varexp:begin S11 -->2025-11-21<!-- varexp:end -->](/01-deroulement/11/)
+* [S11 : 2025-11-21](/01-deroulement/11/)
 * [S12 : <!-- varexp:begin S12 -->2025-11-28<!-- varexp:end -->](/01-deroulement/12/)
 * [S13 : <!-- varexp:begin S13 -->2025-12-05<!-- varexp:end -->](/01-deroulement/13/)
 * [S14 : <!-- varexp:begin S14 -->2025-12-12<!-- varexp:end -->](/01-deroulement/14/)
