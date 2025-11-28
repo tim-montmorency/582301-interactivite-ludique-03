@@ -21,7 +21,7 @@ C'est aussi très important de suivre les [directives de contenu de la plateform
 
 ### Ressources
 
-- Guides pour la création de page web sur Itch
+- Guides pour la création de page web d'un jeu sur Itch
 	- [Documentation officielle de Itch](https://itch.io/docs/creators/design)
 	- [Guide pour la création de page web sur Itch](https://hedgiespresso.itch.io/itch-page-image-templates) (par Star West), avec des dimension des images et templates pour Photoshop et d'autres éditeurs d'image
 - Listes de bons exemples
@@ -36,7 +36,7 @@ C'est aussi très important de suivre les [directives de contenu de la plateform
 
 ## Déploiement du jeu en ligne
 
-Le système Itch est très fexible et permet de créer différents types de contenus (jeux, ressources, bandes dessinées, etc.). Comme on a travaillé avec la version web de notre jeu, on va explorer l'option **HTML**. Pour déploier un build de notre jeu, on va créer un fichier **zip** avec les contenus exportés de Godot (i.e. le contenu de notre dossier `docs`) et le télécharger.
+Le système Itch est très fexible et permet de créer différents types de contenus (jeux, ressources, bandes dessinées, etc.). Comme on a travaillé avec la version web de notre jeu, on va explorer l'option **HTML** ([voici la page de la documentation officielle sur le téléversement des jeux HTML5](https://itch.io/docs/creators/html5)). Pour déploier un build de notre jeu, on va créer un fichier **zip** avec les contenus exportés de Godot (i.e. le contenu de notre dossier `docs`) et le télécharger.
 
 ![Options dans le menu de compte Itch.](image.png)
 
