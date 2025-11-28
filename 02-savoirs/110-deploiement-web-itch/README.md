@@ -48,6 +48,8 @@ Le système Itch est très fexible et permet de créer différents types de cont
 
 Il faut toujours tester le déploiement pour vérifier que la fênetre a une bonne taille, que les sons sont bien intégrés, que les contrôles sont fonctionnels, etc. C'est possible aussi de choisir l'option de visibilité "Restricted"  et même de définir des mot de passe pour tester le dépliement de façon plus privé : par exemple, [une page de test est disponible ici](https://egl-edu.itch.io/test-deploiement-godot) avec le mot de passe "test". Pour réviser les options de déploiement  et continuer à éditer la page du jeu, on peut cliquer sur **Edit game** dans la barre d'outils.
 
+Un autre exemple d'un projet déploié sur Itch est disponible ici : <https://gllmar.itch.io/gd-empd-examples>.
+
 
 
 
