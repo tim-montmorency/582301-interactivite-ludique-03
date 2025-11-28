@@ -10,7 +10,7 @@
 
 ## Activités en classe
 
-- Tutoriel et démo sur le dépliement web
+- Tutoriel et démo sur le déploiement web sur Itch
 - Temps de travail sur le projet
 - Révision de notions d'architecture et organisation du projet
 
