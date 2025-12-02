@@ -2,7 +2,7 @@
 
 ## À préparer avant la classe
 
-- Travailler sur le projet intégrateur.
+- Travailler sur le [projet intégrateur](/03-evaluations/sommatives/04/).
 
 ## Savoirs essentiels/Contenus
 
