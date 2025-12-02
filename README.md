@@ -66,6 +66,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
     * [Compilation de l’application (web export)](/02-savoirs/10-export-web/)
     * [Déploiement web sur Itch.io](/02-savoirs/110-deploiement-web-itch/)
     * [Contrôle de la qualité](/02-savoirs/11-controle-qualite/)
+    * [Architecture et bonnes pratiques pour un projet de jeu vidéo](/02-savoirs/120-architecture-bonnes-pratiques/)
     * [Projet simple](/02-savoirs/20-projet-simple/)
     * [Détection de l'état de personnage](/02-savoirs/50-detection-etat/)
     * [Déplacement dans un environnement virtuel](/02-savoirs/51-deplacement-personnage/)

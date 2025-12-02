@@ -30,8 +30,8 @@ Intégration d’une identité visuelle originale et consistante pour le jeu et 
 
 - Intégration réussie d'une expérience ludique intuitive combinant images et échantillons sonores.
 - Implémentation réussie des mécaniques de jeu telles que la progression, les succès/échecs et l'interactivité de l'utilisateur.
-- Utilisation efficace des technologies pour assurer la performance et la compatibilité de l'expérience.
-- Qualité et structure du code source, respectant les bonnes pratiques de programmation.
+- Utilisation efficace des technologies pour assurer la performance et la compatibilité de l'expérience. - Voir la page [Architecture et bonnes pratiques pour un projet de jeu vidéo](/02-savoirs/120-architecture-bonnes-pratiques/)
+- Qualité et structure du code source, respectant les bonnes pratiques de programmation.  - Voir la page [Architecture et bonnes pratiques pour un projet de jeu vidéo](/02-savoirs/120-architecture-bonnes-pratiques/)
 - Conception, réalisation et integration des médias audiovisuels originaux.
 - Citation adéquate des médias externes utilisés.
 - Documentation, présentation et crédits en ligne du projet de jeu.
