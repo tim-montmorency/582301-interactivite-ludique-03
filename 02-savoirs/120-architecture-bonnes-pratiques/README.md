@@ -22,7 +22,7 @@ L'encapsulation consiste à créer des composants autonomes et réutilisables, p
 ## La communication entre nœuds : "Call Down, Signal Up"
 
 
-Cette technique est un principe directeur pour la communication entre les différents éléments de votre jeu. Elle est définie par la **direction de la communication** dans l'arborescence.
+Cette technique est un principe directeur pour la communication entre les différents éléments de votre jeu. Elle est définie par la **direction de la communication** dans l'arborescence. L'objectif de cette technique est de créer de scènes que sont modulaires et autonomes une des autres le plus possible.
 *   **Appeler vers le bas (Call Down)** : Un script parent doit utiliser des références directes pour appeler des méthodes ou modifier les propriétés de ses nœuds enfants. Il doit également se connecter et traiter les signaux émis par ses enfants.
 *   **Signaler vers le haut (Signal Up)** : Un script enfant ne doit jamais avoir des références directes vers son parent ou un nœud de niveau supérieur. Au lieu de cela, il **émet un signal** (par exemple, `ennemi_detruit`, `objet_ramasse`) pour notifier qu'un événement s'est produit. C'est à un nœud plus haut dans la hiérarchie (souvent le nœud  racine de la scène) de se connecter à ce signal et d'orchestrer la réponse.
 *   **L'exception des systèmes globaux** : Les systèmes accessibles de partout (comme les *Autoloads* pour la gestion du son, UI ou des sauvegardes) peuvent parfois être appelés directement. Toutefois, l'utilisation de signaux reste souvent préférable pour maintenir un couplage faible.
