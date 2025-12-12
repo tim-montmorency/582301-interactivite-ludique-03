@@ -98,6 +98,7 @@ Réaliser une expérience ludique intégrant images et échantillons sonores dan
         * [Travail pratique 3 (TP3) : <!-- varexp:begin BLOC3 -->Niveaux, progression, menu<!-- varexp:end -->](/03-evaluations/sommatives/03/)
             * [Grille d'évaluation — TP3 : Niveaux, progression, menu](/03-evaluations/sommatives/03/grille/)
         * [Projet : intégration des apprentissages](/03-evaluations/sommatives/04/)
+            * [Grille d'évaluation — Projet d' intégration des apprentissages](/03-evaluations/sommatives/04/grille-proj/)
 * [Ressources rapides](/04-ressources-rapides/)
     * [Capsules vidéo](/04-ressources-rapides/01-capsules-video/)
     * [Projets-exemple](/04-ressources-rapides/02-projets-exemple/)
